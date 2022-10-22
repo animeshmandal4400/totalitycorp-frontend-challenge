@@ -30,7 +30,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/linkedin-clone/blob/master/screenshots/linkedin.gif" />
+	<img alt="Project Screenshot" src="https://github.com/animeshmandal4400/totalitycorp-frontend-challenge/blob/main/src/assets/Screenshot.png" />
 </h1>
 
 <p align="center">
