@@ -20,9 +20,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/">DEMO</a>
+ <button> <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/"><img src="https://w7.pngwing.com/pngs/573/519/png-transparent-graphy-register-button-miscellaneous-television-trademark.png"></a> <button/>
 
-<p>This is a project that consists of creating a UI clone of the LinkdeIn feed that has been improved and added the feature to like the post and as they are in action, it will automatically open the comments session that the post received. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
+<p>This is a project that consists of creating a UI clone of the LinkdeIn homepage. That has a navbar section , profile section, and post section where we can see the peoples post and in the right side there is request panding section. The project was developed in ReactJS in conjunction with CSS and other tools.</p>
 
 ## 🚚 Apporaches
 
