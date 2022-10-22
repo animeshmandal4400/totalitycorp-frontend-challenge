@@ -20,7 +20,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/"><img alt="Demo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarmanivero.us%2Fblog%2Fvercel-preview-branch-weirdness%2F&psig=AOvVaw0JS2LwBJehs13hQdKeRNNZ&ust=1666531736723000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCIjdP48_oCFQAAAAAdAAAAABAK" target="_blank"></img></a>
+  <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/">DEMO</a>
 
 <p>This is a project that consists of creating a UI clone of the LinkdeIn feed that has been improved and added the feature to like the post and as they are in action, it will automatically open the comments session that the post received. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
 
