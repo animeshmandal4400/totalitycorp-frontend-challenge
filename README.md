@@ -26,7 +26,7 @@
 
 ## 🚚 Apporaches
 
-• Used a responsive grid system to create a responsive layout.
+<h3>• Used a responsive grid system to create a responsive layout. <h3/>
 • Used media queries to make sure the layout adjusts appropriately for different screen sizes.
 • Styled the clone to match the look and feel of LinkedIn. This is involved choosing appropriate colors, fonts, and images.
 • Make sure the user interface is easy to use and navigate.
