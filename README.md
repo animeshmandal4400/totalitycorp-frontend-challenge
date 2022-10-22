@@ -19,7 +19,7 @@
 </h1>
 
 <p align="center">
-  <button><a href="totalitycorp-frontend-challenge-a1yql2d88-animeshmandal4400.vercel.app"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
+  <button><a href="totalitycorp-frontend-challenge-a1yql2d88-animeshmandal4400.vercel.app"><img alt="Demo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freelogovectors.net%2Fvercel-logo%2F&psig=AOvVaw3L-VC-sJpxeJvrJvL-qm0S&ust=1666531510637000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjzoef38_oCFQAAAAAdAAAAABAE" target="_blank"></img></a></button>
 
 <p>This is a project that consists of creating a UI clone of the LinkdeIn feed that has been improved and added the feature to like the post and as they are in action, it will automatically open the comments session that the post received. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
 
