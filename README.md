@@ -38,7 +38,7 @@ Technologies that I used to develop this frontend app
 
 - [ReactJS](https://nodejs.org/en)
 - [Font-Awesome](https://fontawesome.com/)
-- [HTML] (https://en.wikipedia.org/wiki/HTML)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [VS Code](https://code.visualstudio.com)
 
