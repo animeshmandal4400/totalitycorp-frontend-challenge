@@ -38,6 +38,13 @@
 
 <p>This is a project that consists of creating a UI clone of the LinkdeIn feed that has been improved and added the feature to like the post and as they are in action, it will automatically open the comments session that the post received. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
 
+## Apporaches
+
+1. Use a responsive grid system like Bootstrap or Foundation to create a responsive layout.
+2. Use media queries to make sure the layout adjusts appropriately for different screen sizes.
+3. Style the clone to match the look and feel of LinkedIn. This would involve choosing appropriate colors, fonts, and images.
+4. Make sure the user interface is easy to use and navigate.
+
 ## 🚀 Technologies
 
 Technologies that I used to develop this frontend app
