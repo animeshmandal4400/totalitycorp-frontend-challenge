@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="LinkedIn logo" height="150px" width="150px" />
+	<img alt="LinkedIn logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="150px" width="150px" />
 </h1>
 
 <h3 align="center">
