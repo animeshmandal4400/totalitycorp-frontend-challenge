@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  LinkedIn Clone's detailed Homepage developed in ReactJS and Css
+  LinkedIn Clone's detailed Homepage developed in ReactJS and CSS
 </h3>
 
 <p align="center"></p>
@@ -25,9 +25,6 @@
 <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
 </p>
 
 ## 👨🏻‍💻 About the project
