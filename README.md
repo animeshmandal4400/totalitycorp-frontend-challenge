@@ -20,9 +20,10 @@
 </h1>
 
 <p align="center">
- <button> <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/"><img src="https://w7.pngwing.com/pngs/573/519/png-transparent-graphy-register-button-miscellaneous-television-trademark.png](https://www.kindpng.com/picc/m/387-3871339_graphic-design-hd-png-download.png"></a> <button/>
+	
+ <button> <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/"><img src="https://www.kindpng.com/picc/m/387-3871339_graphic-design-hd-png-download.png"></a> <button/>
 
-<p>This is a project that consists of creating a UI clone of the LinkdeIn homepage. That has a navbar section , profile section, and post section where we can see the peoples post and in the right side there is request panding section. The project was developed in ReactJS in conjunction with CSS and other tools.</p>
+<p>This is a project that consists of creating a UI clone of the LinkdeIn homepage. That has a navbar section , profile section, and post section where we can see the peoples post and in the right side there is a connection section where we find pople to connect. The project was developed in ReactJS in conjunction with CSS and other tools.</p>
 
 ## 🚚 Apporaches
 
