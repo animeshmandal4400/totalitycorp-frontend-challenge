@@ -106,7 +106,7 @@ nav {
   display: flex;
 }
 
-@media (max-width: 415px) {
+@media (max-width: 425px) {
  nav {
   padding-right: 10;
   } 
