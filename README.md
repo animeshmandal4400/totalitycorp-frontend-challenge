@@ -20,7 +20,7 @@
 </h1>
 
 <p align="center">
- <button size="16px"> <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5110/5110617.png" ></a> <button/>
+ <button> <a href="https://totalitycorp-frontend-challenge-seven.vercel.app/">VIEW DEMO</a> <button/>
 
 <p>This is a project that consists of creating a UI clone of the LinkdeIn homepage. That has a navbar section , profile section, and post section where we can see the peoples post and in the right side there is a connection section where we find pople to connect. The project was developed in ReactJS in conjunction with CSS and other tools.</p>
 
